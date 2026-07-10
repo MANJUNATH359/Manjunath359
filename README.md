@@ -138,7 +138,7 @@ Systematic review and meta-analysis (PRISMA-guided) evaluating the diagnostic ac
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manjunath-b-malshetty">
+  <a href="https://www.linkedin.com/in/manjunath-b-malshetty-a11ab72a6/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:manju.malshetty@gmail.com">
