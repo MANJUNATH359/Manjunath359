@@ -4,11 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:34d399&height=200&section=header&text=Manjunath%20B%20Malshetty&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Bioinformatics%20%7C%20Computational%20Biology%20%7C%20Systems%20Biology&descAlignY=55&descSize=18" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/MANJUNATH359-git">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Bioinformatics+%7C+Computational+Biology;Proteogenomics+%7C+Genomics+%7C+Systems+Biology;Genome+Annotation+%7C+Variant+Analysis+%7C+Structural+Bioinformatics;NGS+%7C+Transcriptomics+%7C+Biological+Network+Analysis;Applied+Machine+Learning+for+Biological+%26+Healthcare+Data" alt="Typing SVG" />
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/MANJUNATH359-git"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Bioinformatics;Proteogenomics;Systems+Biology;Machine+Learning" alt="Typing SVG" /> </a> </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MANJUNATH359-git&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile Views" />
