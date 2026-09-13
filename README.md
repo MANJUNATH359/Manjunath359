@@ -309,23 +309,24 @@ Presented findings involving GSSPs, putative novel protein-coding genes, and gen
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MANJUNATH359-git&show_icons=true&theme=nord&hide_border=true&border_color=7dd3fc&title_color=7dd3fc&icon_color=34d399&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANJUNATH359-git&layout=compact&theme=nord&hide_border=true&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MANJUNATH359&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANJUNATH359&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MANJUNATH359-git&theme=nord&hide_border=true&border_radius=8&background=1a1b27&ring=7dd3fc&fire=34d399&currStreakLabel=7dd3fc" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MANJUNATH359-git&no-frame=true&no-bg=true&theme=nord&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MANJUNATH359-git&theme=react-dark&hide_border=true&color=7dd3fc&line=34d399&point=ffffff" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MANJUNATH359&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
