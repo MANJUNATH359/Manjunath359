@@ -7,8 +7,12 @@
 <p align="center"> <a href="https://github.com/MANJUNATH359-git"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Bioinformatics;Proteogenomics;Systems+Biology;Machine+Learning" alt="Typing SVG" /> </a> </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MANJUNATH359&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MANJUNATH359?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  <a href="https://github.com/MANJUNATH359">
+    <img src="https://komarev.com/ghpvc/?username=MANJUNATH359&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/MANJUNATH359?tab=followers">
+    <img src="https://img.shields.io/github/followers/MANJUNATH359?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  </a>
 </p>
 
 ---
