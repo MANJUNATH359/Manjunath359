@@ -313,17 +313,6 @@ Presented findings involving GSSPs, putative novel protein-coding genes, and gen
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MANJUNATH359&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANJUNATH359&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=MANJUNATH359&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
